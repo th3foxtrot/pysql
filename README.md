@@ -1,0 +1,2 @@
+# pysql
+MySQL db setup
